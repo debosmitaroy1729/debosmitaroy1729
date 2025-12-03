@@ -28,7 +28,8 @@ I’m always exploring something — from **machine learning & data analytics** 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debosmitaroy1729&" alt="debosmitaroy1729" /></p>
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
