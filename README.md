@@ -14,22 +14,16 @@ I’m always exploring something — from **machine learning & data analytics** 
 ## Skills & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vim,emacs,mysql,matlab,opencv,pytorch,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vim,emacs,mysql,matlab,opencv,pytorch,sklearn,tensorflow&perline=7" />
   </a>
 </p>
 
 ## Connect with me
 <p align="center">
 <a href="https://linkedin.com/in/debosmita-roy-403846358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debosmita-roy-403846358" height="30" width="40" /></a>
-<a href="https://instagram.com/debosmita6174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debosmita6174" height="30" width="40" /></a>
 </p>
 
 ## Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debosmitaroy1729&" alt="debosmitaroy1729" /></p>
+![snake gif](https://raw.githubusercontent.com/debosmitaroy1729/debosmitaroy1729/output/github-snake.svg)
 
-###
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
