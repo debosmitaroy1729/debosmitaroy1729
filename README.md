@@ -14,7 +14,7 @@ I’m always exploring something — from **machine learning & data analytics** 
 ## Skills & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vim,emacs,mysql,matlab,opencv,pytorch,sklearn,tensorflow&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vim,emacs,mysql,matlab,opencv,pytorch,sklearn,tensorflow" />
   </a>
 </p>
 
@@ -28,8 +28,7 @@ I’m always exploring something — from **machine learning & data analytics** 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debosmitaroy1729&" alt="debosmitaroy1729" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
