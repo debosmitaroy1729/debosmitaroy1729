@@ -26,6 +26,3 @@ I’m always exploring something — from **machine learning & data analytics** 
 ## Stats
 
 ![snake gif](https://raw.githubusercontent.com/debosmitaroy1729/debosmitaroy1729/output/github-snake.svg) 
-
-
-
