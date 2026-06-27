@@ -4,7 +4,7 @@ I’m **Debosmita**, a curious engineer & tech enthusiast who loves building coo
 I’m always exploring something — from **machine learning & data analytics** to **graphics, simulation, and creative coding**. When I’m not coding, you’ll probably find me playing table tennis, reading, or hanging out with my cats 🐾💕
 
 ## About Me
-- 🎓 Second-year undergrad at **IIT Kharagpur**, majoring in **Metallurgy & Materials Engineering**
+- 🎓 Third-year undergrad at **IIT Kharagpur**, majoring in **Metallurgy & Materials Engineering**
 - 🤖 Passionate about **Machine Learning, Computer Vision & Data Science**
 - 🌱 Learning **algorithms, ML fundamentals & deep learning** step by step
 - 💡 Love solving problems & participating in competitions
